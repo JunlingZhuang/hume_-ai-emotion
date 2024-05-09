@@ -1,0 +1,178 @@
+[
+    {
+        "Mary had a little lamb,": [
+            {
+                "name": "Love",
+                "score": 0.1472713202238083
+            },
+            {
+                "name": "Calmness",
+                "score": 0.13555721938610077
+            },
+            {
+                "name": "Romance",
+                "score": 0.09956827759742737
+            },
+            {
+                "name": "Confusion",
+                "score": 0.0911511704325676
+            },
+            {
+                "name": "Desire",
+                "score": 0.08503230661153793
+            },
+            {
+                "name": "Adoration",
+                "score": 0.07222927361726761
+            },
+            {
+                "name": "Admiration",
+                "score": 0.0637924075126648
+            },
+            {
+                "name": "Interest",
+                "score": 0.06195249781012535
+            },
+            {
+                "name": "Awkwardness",
+                "score": 0.061385150998830795
+            },
+            {
+                "name": "Contentment",
+                "score": 0.06075143441557884
+            }
+        ]
+    },
+    {
+        "Its fleece was white as snow.": [
+            {
+                "name": "Calmness",
+                "score": 0.14533287286758423
+            },
+            {
+                "name": "Confusion",
+                "score": 0.14072859287261963
+            },
+            {
+                "name": "Boredom",
+                "score": 0.10465148836374283
+            },
+            {
+                "name": "Interest",
+                "score": 0.10246434807777405
+            },
+            {
+                "name": "Contemplation",
+                "score": 0.08013632148504257
+            },
+            {
+                "name": "Realization",
+                "score": 0.076319120824337
+            },
+            {
+                "name": "Aesthetic Appreciation",
+                "score": 0.07604563981294632
+            },
+            {
+                "name": "Satisfaction",
+                "score": 0.07013728469610214
+            },
+            {
+                "name": "Contentment",
+                "score": 0.06073102355003357
+            },
+            {
+                "name": "Concentration",
+                "score": 0.05680055543780327
+            }
+        ]
+    },
+    {
+        "Everywhere the child went,": [
+            {
+                "name": "Realization",
+                "score": 0.13879826664924622
+            },
+            {
+                "name": "Calmness",
+                "score": 0.1260739266872406
+            },
+            {
+                "name": "Confusion",
+                "score": 0.1222047209739685
+            },
+            {
+                "name": "Boredom",
+                "score": 0.09323373436927795
+            },
+            {
+                "name": "Contemplation",
+                "score": 0.07748270034790039
+            },
+            {
+                "name": "Satisfaction",
+                "score": 0.06976743042469025
+            },
+            {
+                "name": "Contentment",
+                "score": 0.0677824541926384
+            },
+            {
+                "name": "Surprise (positive)",
+                "score": 0.05965827777981758
+            },
+            {
+                "name": "Tiredness",
+                "score": 0.050310857594013214
+            },
+            {
+                "name": "Interest",
+                "score": 0.04900533705949783
+            }
+        ]
+    },
+    {
+        "The little lamb was sure to go.": [
+            {
+                "name": "Confusion",
+                "score": 0.3616469204425812
+            },
+            {
+                "name": "Interest",
+                "score": 0.15917028486728668
+            },
+            {
+                "name": "Calmness",
+                "score": 0.12637406587600708
+            },
+            {
+                "name": "Contemplation",
+                "score": 0.10656405985355377
+            },
+            {
+                "name": "Concentration",
+                "score": 0.06531300395727158
+            },
+            {
+                "name": "Aesthetic Appreciation",
+                "score": 0.06001366302371025
+            },
+            {
+                "name": "Boredom",
+                "score": 0.059299860149621964
+            },
+            {
+                "name": "Doubt",
+                "score": 0.04364926740527153
+            },
+            {
+                "name": "Realization",
+                "score": 0.042914945632219315
+            },
+            {
+                "name": "Surprise (positive)",
+                "score": 0.03454850986599922
+            }
+        ]
+    }
+]
